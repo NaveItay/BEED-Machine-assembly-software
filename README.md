@@ -5,7 +5,7 @@ Optimizing Production Line for Assembly &amp; Testing BEED machines
 </p>
  
 ### Login page
-![alt text](./githun_images/Frame1.PNG)
+![alt text](/githun_images/Frame1.png)
 
 <p>
 <br />

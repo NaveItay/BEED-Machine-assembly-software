@@ -5,56 +5,56 @@ Optimizing Production Line for Assembly &amp; Testing BEED machines
 </p>
  
 ### Login page
-![alt text](./frame_images/Frame1.PNG)
+![alt text](./githun_images/Frame1.PNG)
 
 <p>
 <br />
 </p>
 
 ### Frame 2
-![alt text](./frame_images/Frame2.PNG)
+![alt text](./githun_images/Frame2.PNG)
 
 <p>
 <br />
 </p>
 
 ### Frame 3
-![alt text](./frame_images/Frame3.PNG)
+![alt text](./githun_images/Frame3.PNG)
 
 <p>
 <br />
 </p>
 
 ### Frame 4
-![alt text](./frame_images/Frame4.PNG)
+![alt text](./githun_images/Frame4.PNG)
 
 <p>
 <br />
 </p>
 
 ### Frame 5
-![alt text](./frame_images/Frame5.PNG)
+![alt text](./githun_images/Frame5.PNG)
 
 <p>
 <br />
 </p>
 
 ### Frame 6
-![alt text](./frame_images/Frame6.PNG)
+![alt text](./githun_images/Frame6.PNG)
 
 <p>
 <br />
 </p>
 
 ### Frame 7
-![alt text](./frame_images/Frame7.PNG)
+![alt text](./githun_images/Frame7.PNG)
 
 <p>
 <br />
 </p>
 
 ### Frame 8
-![alt text](./frame_images/Frame8.PNG)
+![alt text](./githun_images/Frame8.PNG)
 
 <p>
 <br />
